@@ -251,7 +251,6 @@ sleep 0.015s
 # SSH into the microVM
 ssh -i ./ubuntu-22.04.id_rsa root@172.16.0.2
 
-# Use `root` for both the login and password.
 # Run `reboot` to exit.
 ```
 
